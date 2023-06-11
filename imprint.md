@@ -7,7 +7,7 @@ layout: layouts/post.njk
 ## Angaben gemäß § 5 TMG
 
 Simon Stubenvoll<br />
-Hainbergstr. 38a<br />
+Hainbergstr. 38<br />
 90522 Oberasbach
 
 ## Kontakt
@@ -17,7 +17,7 @@ mail (at) simonstubenvoll.de
 ## Redaktionell Verantwortlicher
 
 Simon Stubenvoll<br />
-Hainbergstr. 38a<br />
+Hainbergstr. 38<br />
 90522 Oberasbach
 
 ### Haftung für Inhalte
