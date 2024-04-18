@@ -68,7 +68,7 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kom
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
 Simon Stubenvoll<br />
-Hainbergstr. 38<br />
+Hainbergstraße 38<br />
 90522 Oberasbach
 
 mail (at) simonstubenvoll.de
